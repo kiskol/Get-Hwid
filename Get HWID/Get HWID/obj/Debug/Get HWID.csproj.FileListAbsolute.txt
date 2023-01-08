@@ -1,0 +1,15 @@
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\obj\Debug\Get HWID.csproj.AssemblyReference.cache
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\obj\Debug\Get HWID.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\obj\Debug\Get_HWID.Form1.resources
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\obj\Debug\Get_HWID.Properties.Resources.resources
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\obj\Debug\Get HWID.csproj.GenerateResource.cache
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\obj\Debug\Get HWID.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\bin\Debug\Get HWID.exe.config
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\bin\Debug\Get HWID.exe
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\bin\Debug\Get HWID.pdb
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\bin\Debug\MetroFramework.dll
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\obj\Debug\Get HWID.csproj.CopyComplete
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\obj\Debug\Get HWID.exe
+C:\Users\Lukas\source\repos\Get HWID\Get HWID\obj\Debug\Get HWID.pdb
